@@ -14,7 +14,7 @@
 - Exemplo de uso: Uma loja de materiais de construção prever quantos tijolos e cimento envirar para sua loja no próximo mês. Uma previsão exageda disperdiça espaço e dinheiro devido ao excesso de tijolos e cimento guardados no estoque. Uma previsão menor haverá perda de oportunidade e lucro menor.
 
 ### Exemplo: 
-- Dada algumas informações sobre um passageiro do Titanic, você deseja escolher a partir das respostas vive ou morre, que esteja correto e o mais rápido possível. 
+- Dada algumas informações sobre um passageiro do Titanic, você deseja escolher a partir das respostas vive ou morre, que esteja correto e o mais rápido possível. A previsão não foca em torno de estabelecer a relação mais precisa entre a entrada e a saída, mas sim em colocar novas observações na classe certa com a maior freqüência possível
 
 ### Exemplos práticos ou de uso comercial
   1. Previsão de demanda
